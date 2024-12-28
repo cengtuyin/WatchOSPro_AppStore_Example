@@ -10,9 +10,9 @@ WatchOSPro - AppStore 自更新应用
 
 ### Issues格式
 ##### 请注意，不要反复提交！
-> 应用名：WatchOSPro
-> 包名：com.WatchOS.Pro.yin
-> Url：https://cengtuyin.github.io/WatchOSPro_AppStore_Example/App1/AppInfo.json
+> 应用名：WatchOSPro<br>
+> 包名：com.WatchOS.Pro.yin<br>
+> Url：https://cengtuyin.github.io/WatchOSPro_AppStore_Example/App1/AppInfo.json<br>
 > 日期：字面意思
 
 ### 如果发现违规应用
