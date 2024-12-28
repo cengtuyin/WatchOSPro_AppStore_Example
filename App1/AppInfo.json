@@ -1,0 +1,28 @@
+{
+    "name":"应用名",
+    "icon":"应用Icon链接",
+    "pak":"应用包名",
+    "version name":"版本名称",
+    "version code":"版本代码",
+    "app image":[
+        "src/img/AppStore/WatchOSPro/App_1.png",
+        "src/img/AppStore/WatchOSPro/App_2.png",
+        "src/img/AppStore/WatchOSPro/App_3.png",
+        "src/img/AppStore/WatchOSPro/App_4.png",
+        "如你所见，这是应用截图列表"
+    ],
+    "label": [
+        {
+            "icon": "android",
+            "msg": "64位"
+        },
+        {
+            "icon": "Material Design图标",
+            "msg": "描述文本"
+        }
+    ],
+    "author":"作者",
+    "description":"应用介绍",
+    "update time":"更新日期",
+    "download url":"apk链接"
+}
