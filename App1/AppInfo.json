@@ -23,6 +23,7 @@
     ],
     "author":"作者",
     "description":"应用介绍",
+    "tbrief description":"应用简短介绍",
     "update time":"更新日期",
     "download url":"apk链接"
 }
